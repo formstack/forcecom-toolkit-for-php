@@ -1,11 +1,12 @@
 {
-    "name": "fishfacemcgee/forcecom-toolikt-for-php",
+    "name": "fishfacemcgee/forcecom-toolkit-for-php",
     "description": "A wrapper for the Force.com Web Services SOAP API",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/fishfacemcgee/forcecom-toolkit-for-php"
+    "homepage": "https://github.com/fishfacemcgee/forcecom-toolkit-for-php",
     "autoload": {
         "classmap": [
            "soapclient"
         ]
-    }
+    },
+    "minimum-stability": "dev"
 }
